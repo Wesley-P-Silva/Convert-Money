@@ -25,10 +25,7 @@
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/Rafael-Yokoyama" target="_blank">Author</a>
+  <a href="#bust_in_silhouette-author" >Author</a>
 </p>
 
 <br>
@@ -53,8 +50,9 @@ The following tools were used in this project:
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 
 
+## :bust_in_silhouette: Author ##
 
-Made with love by [Rafael Yokoyama](https://github.com/Wesley-P-Silva) 🚀.
+Made with love by [Wesley Silva](https://github.com/Wesley-P-Silva) 🚀.
 
 
 <a href="#top">Back to top</a>
